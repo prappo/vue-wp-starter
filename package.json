@@ -1,7 +1,7 @@
 {
   "name": "vue-wp-starter",
   "version": "1.0.0",
-  "description": "Vue Wordpress plugin starter",
+  "description": "Vue Wordpress starter plugin",
   "main": "src/index.js",
   "bin": {
     "@prappo_prince/vue-wp-starter": "bin/vue-wp-starter",
